@@ -1,4 +1,4 @@
-# NodeJs Server Authentication 
+# NodeJS Server With Authentication 
 
 This is an impmentation of a hotel booking system using a NodeJS server with Express. 
 
